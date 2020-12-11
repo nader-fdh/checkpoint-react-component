@@ -5,6 +5,7 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  width: 20px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -22,6 +23,9 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+p {
+  color: #61dafb;
 }
 
 .App-link {
